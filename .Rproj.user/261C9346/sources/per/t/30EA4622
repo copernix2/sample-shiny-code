@@ -1,0 +1,24 @@
+{
+    "id": "30EA4622",
+    "path": "~/Documents/R Projects/index.html/ui.R",
+    "project_path": "ui.R",
+    "type": "r_source",
+    "hash": "3664959796",
+    "contents": "",
+    "dirty": true,
+    "created": 1590442533759.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "15,22",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591630006,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591700758168,
+    "read_only": false,
+    "read_only_alternatives": []
+}

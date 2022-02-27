@@ -1,0 +1,32 @@
+{
+    "id": "51D06DD6",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591612609967.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "evolution",
+        "caption": "evolution",
+        "totalObservations": "99",
+        "displayedObservations": "99",
+        "variables": "14",
+        "cacheKey": "B7B50B0C",
+        "object": "evolution",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=evolution&cache_key=B7B50B0C&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94387948804520,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591612609967,
+    "read_only": false,
+    "read_only_alternatives": []
+}

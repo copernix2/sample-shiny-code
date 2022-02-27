@@ -1,0 +1,24 @@
+{
+    "id": "AA2FFBDA",
+    "path": "~/Documents/R Projects/index.html/getData.R",
+    "project_path": "getData.R",
+    "type": "r_source",
+    "hash": "1500230182",
+    "contents": "",
+    "dirty": false,
+    "created": 1591203236802.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "90,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591630471,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591630471813,
+    "read_only": false,
+    "read_only_alternatives": []
+}

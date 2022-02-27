@@ -1,0 +1,32 @@
+{
+    "id": "00172524",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591628139865.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "expression": "zone_confirmes_dist",
+        "caption": "zone_confirmes_dist",
+        "totalObservations": "5214",
+        "displayedObservations": "5214",
+        "variables": "7",
+        "cacheKey": "EB32A8E2",
+        "object": "zone_confirmes_dist",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=zone_confirmes_dist&cache_key=EB32A8E2&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 6532237778313536828,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591628139865,
+    "read_only": false,
+    "read_only_alternatives": []
+}

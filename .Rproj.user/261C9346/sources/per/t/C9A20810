@@ -1,0 +1,24 @@
+{
+    "id": "C9A20810",
+    "path": "~/Documents/R Projects/index.html/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "2417159849",
+    "contents": "",
+    "dirty": false,
+    "created": 1590442494025.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "51,25",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591616028,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591616028875,
+    "read_only": false,
+    "read_only_alternatives": []
+}
